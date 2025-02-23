@@ -63,7 +63,7 @@ npm run preview
 ### Project Structure
 
 ```
-react-registration-form/
+react-hook-form/
 ├── public
 │   └── index.html         # Main HTML file
 ├── src
