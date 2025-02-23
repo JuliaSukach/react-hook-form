@@ -62,6 +62,7 @@ npm run preview
 
 ### Project Structure
 
+```
 react-registration-form/
 ├── public
 │   └── index.html         # Main HTML file
@@ -77,6 +78,8 @@ react-registration-form/
 ├── postcss.config.cjs     # PostCSS configuration
 ├── package.json           # Project configuration and scripts
 └── vite.config.js         # Vite configuration
+
+```
 
 
 ### Contributing
